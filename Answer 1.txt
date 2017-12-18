@@ -1,0 +1,4 @@
+My favourite test framework is Visual Studio Unit Testing framework.
+I like it because it is integrated with visual studio.
+Also VS will give you Code Coverage in MSTest.
+MSTest has a option to execute your tests in parallel if they don't dependent on each other.
